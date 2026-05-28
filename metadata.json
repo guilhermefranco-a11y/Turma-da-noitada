@@ -1,0 +1,6 @@
+{
+  "name": "Computadores Gamer de Alto Desempenho",
+  "description": "Landing page interativa com assistente de IA para criação de setups gamer personalizados e de alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
